@@ -15,7 +15,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🌠 Layout
 
-Você pode visualizar o layout do projeto através deste [link](https://link-do-layout.com).
+Você pode visualizar o layout do projeto através deste [link](https://poke-api-fawn.vercel.app/).
 
 ---
 
@@ -44,20 +44,19 @@ Você pode visualizar o layout do projeto através deste [link](https://link-do-
 
 ---
 
-## 👯Contribuições
+## 👯 Contribuições
 
 Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, melhoria ou correção, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
-<img width="948" alt="image" src="https://github.com/Thamireslopescz/PokeApi/assets/100656019/ea137646-684c-4184-8e10-fce2c3285194">
-
-
-## 🔑Licença
+## 🔑 Licença
 
 Este projeto está licenciado sob a Licença [MIT](https://opensource.org/licenses/MIT).
 
 ---
 
-Desenvolvido por [Thamires Lopes](https://github.com/Thamireslopescz)https://github.com/Thamireslopescz) - 2023.
+Desenvolvido por [Thamires Lopes](https://github.com/Thamireslopescz) - 2023.
+
+Telas 
 
 <img width="948" alt="image" src="https://github.com/Thamireslopescz/PokeApi/assets/100656019/f80e1a37-6d03-4bc1-ba29-1fbd9f5654d5">
 <img width="947" alt="image" src="https://github.com/Thamireslopescz/PokeApi/assets/100656019/49260f49-4b0a-4970-b759-10d81c2683c8">
